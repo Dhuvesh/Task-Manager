@@ -1,8 +1,28 @@
-# React + Vite
+📋 Task Management Modal Component
+Overview
+The TaskModal is a React component that provides a user-friendly interface for creating and editing tasks in a task management application. It leverages Redux for state management and Tailwind CSS for styling.
+Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🆕 Create new tasks
+✏️ Edit existing tasks
+📝 Comprehensive form validation
+🎨 Responsive and modern UI
+🔍 Clear input fields with helpful placeholders
 
-Currently, two official plugins are available:
+Prerequisites
+Before using this component, ensure you have the following dependencies:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React
+Redux
+React Redux
+Tailwind CSS
+
+Installation
+
+Clone the repository
+Install dependencies:
+npm install react react-redux tailwindcss
+
+Run the Sever in Command prompt using:
+
+"npm run dev"
